@@ -21,6 +21,9 @@ li.checked {
     padding-left: 25px;
     background-repeat: no-repeat;
 }
+ul {
+list-style: none;
+}
 ul.checklist > li:not(.checked) {
     background-image: url("unchecked.jpg");
     background-position: left center;
