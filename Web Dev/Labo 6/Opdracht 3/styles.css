@@ -1,0 +1,40 @@
+body {
+    font-family: "Helvetica";
+}
+
+h1, h2 {
+    font-size: 80px;
+}
+
+a {
+    color: #EF233C;
+}
+
+header {
+    margin-bottom: 10px;
+}
+
+footer {
+    margin-top: 10px;
+}
+.hoofdKleur{
+    color: #EDF2F4;
+}
+
+.onderKleur{
+    color: #8D99AE;
+}
+
+.donkereBack {
+    background-color: #2B2D42;
+}
+
+.lichteBack {
+    background-color: #8D99AE;
+}
+
+.matigePadding {
+    padding: 30px;
+}
+
+
