@@ -15,7 +15,7 @@ a:hover {
     border-style: dotted;
 }
 li.checked {
-    background-image: url("checked.jpg");
+    background-image: url("./Images/checked.jpg");
     background-position: left center;
     background-size: 20px;
     padding-left: 25px;
@@ -25,7 +25,7 @@ ul {
 list-style: none;
 }
 ul.checklist > li:not(.checked) {
-    background-image: url("unchecked.jpg");
+    background-image: url("./Images/unchecked.jpg");
     background-position: left center;
     background-size: 20px;
     padding-left: 25px;
