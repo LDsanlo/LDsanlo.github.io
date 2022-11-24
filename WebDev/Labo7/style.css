@@ -1,0 +1,6 @@
+.datagrid table { border-collapse: collapse; text-align: left;  }
+.datagrid table thead tr:first-child {background-color: rgb(170,170,200); text-align: center }
+.datagrid table thead tr:last-child {background-color: darkblue;color: lightblue  }
+.datagrid table tbody tr td.vrijeDag {background-color: rgb(250,120,120)}
+.datagrid table tbody tr td:first-child, .datagrid table tbody tr td:last-child{background-color: rgb(255,220,220)}{background-color: rgb(255,220,220)}
+.datagrid table tbody tr td.andereMaand {background-color: grey}
