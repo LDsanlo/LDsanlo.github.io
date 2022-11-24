@@ -40,7 +40,7 @@ html{
 
 }
 body{
-    background-color: silver;
+    background-image: linear-gradient(to right, grey 400px, white 1500px);
     height: 99vh;
     display: flex;
 }
