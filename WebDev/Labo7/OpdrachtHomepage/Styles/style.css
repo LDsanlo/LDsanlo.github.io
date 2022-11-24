@@ -1,0 +1,24 @@
+article{
+    background-color: grey;
+    border: 3px solid black;
+    margin: 10px 10px 10px 10px;
+    padding-left: 2px;
+
+}
+body{
+    font-family: Arial;
+    background-color: #DBDBDB;
+}
+
+.hoofding {
+    background-color: dodgerblue;
+    padding: 5px 5px 5px 5px;
+}
+
+img{
+    width: 300px;
+}
+a {
+    color: red;
+    text-decoration: none;
+}
