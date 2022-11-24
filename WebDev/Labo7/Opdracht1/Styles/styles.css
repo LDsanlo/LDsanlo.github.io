@@ -1,0 +1,57 @@
+body {
+    width: 1200px;
+    margin: auto;
+}
+
+header {
+    font-family: Verdana;
+    padding-left: 3px;
+    font-size: 20px;
+}
+
+article header{
+    color: dimgrey;
+    text-decoration: underline;
+}
+
+article{
+    background-color: #DBDBDB;
+    padding: 5px 0 5px 5px;
+    margin: 5px;
+}
+
+nav {
+    background-color: dimgrey;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+header.opmaak {
+    background-image: url("leaves.jpg") ;
+    background-size: 1500px;
+    color: white;
+    padding-bottom: 80px;
+
+}
+
+a:active{
+    color: lightgreen;
+}
+a:visited{
+    color: lightgreen;
+}
+article a:visited{
+    color: blue;
+}
+
+.overzichtelijk *{
+    display: inline;
+    color: lightgreen;
+    text-decoration: none;
+    padding-left: 0;
+}
+
+.overzichtelijk li:not(.laatst) {
+    border-right: 1px solid black;
+    margin-right: 5px;
+}
