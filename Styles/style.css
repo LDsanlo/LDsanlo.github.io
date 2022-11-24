@@ -44,6 +44,6 @@ html{
 }
 body{
     background-image: linear-gradient(to right, grey 400px, white 1500px);
-    height: 99vh;
+    height: 95vh;
     display: flex;
 }
